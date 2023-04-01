@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:green;
+  }
+  h2{
+    text-align: center;
+  color: orange;
+  }
+  h3{
+    text-align: center;
+    color: blue;
+  }
+  
+.third{
+    text-align: center;
+    background-color: pink;
+    width:max-content;
+}
+.sixth{
+    text-align: center;
+    background-color: green;
+    width:max-content;
+  }
+  .ninth{
+    text-align: center;
+    background-color: yellow;
+    width:max-content;
+  }
+  button{
+    background-color: green;
+  }
